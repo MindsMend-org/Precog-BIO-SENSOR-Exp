@@ -1,4 +1,4 @@
-# Precog Bio Sensor Experiment
+# Precog Bio Sensor Experiment [A starting point]
 
 ## Make a prediction. Measure the moment. Share what you find.
 
