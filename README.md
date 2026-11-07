@@ -1,5 +1,8 @@
 # Precog Bio Sensor Experiment [A starting point]
 
+[All is mind]
+Hypothesis: The subconscious mind knows all things, the conscious mind covers it up. Can we train both subconscious & conscious to work as one? I believe we all can.
+
 ## Make a prediction. Measure the moment. Share what you find.
 
 Could a person's body react differently before an outcome is revealed? This is an open experiment for curious people to build, question, and improve together. Bring an ESP32 or Arduino-compatible board, a GSR sensor, and an analog pulse sensor; make a prediction before each trial; then compare your results with a fair chance baseline.
